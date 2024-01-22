@@ -32,3 +32,5 @@ function App() {
 }
 
 export default App;
+
+//npx json-server -p 8000 -w ./data/db.json
